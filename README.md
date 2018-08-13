@@ -1,5 +1,5 @@
 # msg_dll_generator
-A C# msg generator. Kind of like genpy/gencpp/genlisp, but a lot more hacky, and certainly unofficial
+A ROS Package with a C# msg generator. Kind of like genpy/gencpp/genlisp, but a lot more hacky, and certainly unofficial
 
 ## How to install
 

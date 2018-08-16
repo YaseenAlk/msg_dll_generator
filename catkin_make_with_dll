@@ -1,0 +1,9 @@
+cd ~/catkin_ws
+catkin_make
+
+echo "---"
+echo "Done with catkin_make. Now autogenerating C# dll..."
+echo "---"
+
+cd src/msg_dll_generator
+./generate_msg_dll.sh
